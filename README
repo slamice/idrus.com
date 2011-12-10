@@ -1,4 +1,5 @@
 == Idrus.com
 
-This is starting off to be an online dictionary / grammar clone of www.jisho.org, only for arabic.
-This is a pet project.
+This is starting off to be an online dictionary / grammar inspired by www.jisho.org, only for arabic instead of japanese. It will use the the ve linguistic framework: http://kimtaro.com/ve/ .
+
+This is a pet project for me to goof off with rails.
